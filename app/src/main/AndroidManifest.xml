@@ -31,11 +31,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DecodeActivity" />
         <activity android:name=".VideoClipActivity"></activity>
-        <activity android:name=".VideoEditActivity"></activity>
-        <activity android:name=".VideoProgressActivity"></activity>
-        <activity android:name=".CameraEffectActivity"></activity>
+
     </application>
 
 </manifest>

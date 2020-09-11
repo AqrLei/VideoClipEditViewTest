@@ -3,8 +3,6 @@ package com.spx.videoclipeditviewtest
 
 import android.content.Context
 import android.graphics.*
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import android.util.AttributeSet
 import android.util.Log
 import android.view.LayoutInflater

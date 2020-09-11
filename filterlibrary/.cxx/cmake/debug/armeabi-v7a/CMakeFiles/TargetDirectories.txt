@@ -1,3 +1,0 @@
-/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/nativefilter.dir

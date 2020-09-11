@@ -1,1 +1,1 @@
-include ':app', ':library', ':epf', ':filterlibrary'
+include ':app', ':library', ':epf'

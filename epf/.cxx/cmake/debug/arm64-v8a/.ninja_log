@@ -1,3 +1,5 @@
 # ninja log v5
 0	412	0	CMakeFiles/MagicBeautify.dir/src/main/jni/MagicJni.cpp.o	72325326d126b042
 413	491	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libMagicBeautify.so	1b1bb5db74a0e215
+0	194	0	CMakeFiles/MagicBeautify.dir/src/main/jni/MagicJni.cpp.o	72325326d126b042
+194	276	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libMagicBeautify.so	1b1bb5db74a0e215
