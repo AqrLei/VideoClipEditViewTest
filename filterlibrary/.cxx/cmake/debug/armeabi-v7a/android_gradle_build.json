@@ -1,0 +1,131 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Volumes/Macintosh_Data/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"nativefilter-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "nativefilter",
+			"buildCommand" : "/Volumes/Macintosh_Data/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a --target nativefilter",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/common/Point.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/FilterUtils.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/BlendFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/BlackWhiteFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/BrightContrastFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/ColorQuantizeFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/GaussianBlurFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/HistogramEqualFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/ImageFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/InvertFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/LookupTableFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/MosaicFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/ShiftFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/StackBlurFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/nativefilter/VignetteFilter.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi18 --gcc-toolchain=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/src/main/cpp/ImageFilterController.cpp",
+					"workingDirectory" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/filterlibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/libnativefilter.so",
+			"toolchain" : "14463937021456051219"
+		}
+	},
+	"toolchains" : 
+	{
+		"14463937021456051219" : 
+		{
+			"cCompilerExecutable" : "/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

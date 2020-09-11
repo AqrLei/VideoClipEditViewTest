@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest",
+      "sdkFolder": "/Volumes/Macintosh_Data/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/build/intermediates",
+      "gradleModulePathName": ":epf",
+      "moduleRootFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf",
+      "makeFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/.cxx",
+      "cxxFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx",
+      "ndkFolder": "/Volumes/Macintosh_Data/Android/sdk/ndk/21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions"
+    ],
+    "variantName": "debug",
+    "soFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 18,
+  "cxxBuildFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64",
+  "jsonFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64",
+  "objFolder": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/build/intermediates/cmake/debug/obj/x86_64",
+  "buildCommandFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cxx/debug/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Volumes/Macintosh_Data/github/VideoClipEditViewTest/epf/.cxx/cmake/debug/x86_64/compile_commands.json"
+}
